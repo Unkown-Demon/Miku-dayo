@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Miku Dayo</string>
+    <string name="boss_text">Meni boss</string>
+    <string name="red_button_desc">Qizil tugma</string>
+    <string name="blue_button_desc">Koʻk tugma</string>
+</resources>
